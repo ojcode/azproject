@@ -1,0 +1,9 @@
+{
+	"name": "df-jazproject",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7915795-6601-408a-95ee-a883d938cea8",
+		"tenantId": "50da81e8-c2fa-4425-b80e-06a0068fb74c"
+	}
+}
